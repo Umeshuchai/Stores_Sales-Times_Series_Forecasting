@@ -7,3 +7,10 @@ The dataset used for this project is publicly hosted on Kaggle. Because of file 
   1. Download the dataset files (`train.csv`, `test.csv`, `stores.csv`) from the link above.
   2. Create a folder named `data/` in your local project directory.
   3. Inside `data/`, place the downloaded CSV files there.
+
+
+## Objective
+Explore Ecuador's Stores' Sales Times Series dataset and build machine learning model to predict sales.
+
+## Note 
+This project is for educational purposes. Model results are intermediate and should not be treated as production-ready predictions.

@@ -2,7 +2,9 @@ matplotlib
 seaborn
 numpy
 pandas
-datetime
 sklearn
 feature-engine
 scipy
+shap
+xgboost
+optuna
