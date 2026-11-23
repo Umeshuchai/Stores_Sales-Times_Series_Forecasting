@@ -1,1 +1,3 @@
 data/
+final_model/final_model.joblib
+final_model/preprocessor_encoder.joblib
